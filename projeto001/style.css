@@ -95,10 +95,11 @@ table tr{
     background-color: burlywood;
 }
 footer{
-    background-color: rgba(214, 26, 26, 0.781) ;
-    width: 100%;
-    height: 40px;
-    text-align: center;
-    bottom: 0;
-    position: sticky;
+  background-color: rgba(214, 26, 26, 0.781) ;
+  text-align: center;
+  position: absolute;
+  bottom:0;
+  width:100%;
+  margin: auto auto;
+  padding: 10px 5px;
 }
