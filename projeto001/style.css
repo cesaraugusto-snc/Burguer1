@@ -96,7 +96,8 @@ table tr{
 }
 footer{
     background-color: rgba(214, 26, 26, 0.781) ;
-    padding: 10px;
+    width: 100%;
+    height: 40px;
     text-align: center;
     bottom: 0;
     position: sticky;
